@@ -14,6 +14,7 @@ function anniv_ajout() {
     anniv_liste();
 }
 
+/* Cette fonction affiche sur la page la liste des anniversaires stockés dans le localstorage du navigateur */
 function anniv_liste() {
     nb_anniv = anniv_get_nb_anniv();
     result = "";
