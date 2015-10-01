@@ -67,6 +67,22 @@ function charge_couleurs() {
     });
 }
 
+function masque_couleur(color) {
+    $('#couleurs_proposees button').each(function( index ) {
+        if ($(this).html().indexOf(color) > -1) {
+            $(this).show();
+        }
+        else {
+            $(this).hide();
+        }
+    });
+}
+
 $(document).ready(function() {
     charge_couleurs();
 });
+
+$("#couleur").bind( "keyup", function() {
+    masque_couleur($(this).val());
+});
+
