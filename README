@@ -1,0 +1,13 @@
+# Présentation
+
+Ce dépôt sert d'exemple au livre :
+
+> Git - Maitrisez la gestion de vos versions (concepts, utilisation et cas pratiques)
+
+Le projet qui se trouve dans ce dépôt est un système permettant de lister des anniversaires. Les données sont stockées sur le navigateur.
+Ce projet est extrêmement simpliste, vous ne manquerez pas de remarquer qu'aucun effort n'a été fait pour l'aspect esthétique du site.
+
+# Utilisation
+
+Ouvrez anniversaire.html pour pouvoir utiliser le mémo d'anniversaire.
+Ensuite un formulaire permet d'ajouter les anniversaires (après cliqué sur Ajouter).
