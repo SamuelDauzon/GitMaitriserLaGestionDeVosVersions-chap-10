@@ -7,5 +7,5 @@ Ce projet est extrêmement simpliste, vous ne manquerez pas de remarquer qu'aucu
 
 # Utilisation
 
-Ouvrez anniversaire.html pour pouvoir utiliser le mémo d'anniversaire.
-Ensuite un formulaire permet d'ajouter les anniversaires (après cliqué sur Ajouter).
+Ouvrez *anniversaire.html* pour pouvoir utiliser le mémo d'anniversaire.
+Ensuite un formulaire permet d'ajouter les anniversaires (après avoir cliqué sur **Ajouter**).
